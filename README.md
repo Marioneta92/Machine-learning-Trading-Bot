@@ -90,3 +90,12 @@ In this section, you’ll use the original parameters that the starter code prov
 Create an Evaluation Report
 
 In the previous sections, you updated your README.md file with your conclusions. To finish this section, add a summary evaluation report at the end of the README.md file. For this report, express your final conclusions and analysis. Support your findings by using the PNG images that you created.
+
+![image](https://user-images.githubusercontent.com/114365472/216492965-87e6a768-651f-40b8-812c-6c513a9ac352.png)
+
+
+![image](https://user-images.githubusercontent.com/114365472/216493039-12569b90-5757-4572-bbfe-6d46ffd44e4b.png)
+
+
+In regards to which strategy to implement, the first model seems to be predicting a better trend. The second one seems to not be that far off from the first one. all in all the first model has a slightly better quality of prediction.
+
